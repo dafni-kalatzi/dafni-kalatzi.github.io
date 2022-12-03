@@ -8,6 +8,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'faraday'
+    gem 'jekyll-sitemap'
 end
 
 gem "webrick", "~> 1.7"
