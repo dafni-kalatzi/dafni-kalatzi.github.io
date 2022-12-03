@@ -1,2 +1,5 @@
 url: dafnikalatzi.github.io
 baseurl:
+
+plugins:
+  - jekyll-sitemap
