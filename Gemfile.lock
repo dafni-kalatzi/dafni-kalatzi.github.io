@@ -283,6 +283,7 @@ DEPENDENCIES
   jekyll-email-protect
   jekyll-paginate
   jekyll-scholar
+  jekyll-sitemap
   jemoji
   unicode_utils
   webrick (~> 1.7)
